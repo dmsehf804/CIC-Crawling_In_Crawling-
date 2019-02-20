@@ -16,5 +16,5 @@ Image web crawler + Object detection로 기존의 웹 크롤링 결과의 노이
 4. result 폴더에 결과 이미지들 저장 
 5. Filter, Resize 기능 사용
 
-#Demo
+# Demo
 * http://mcsl.gachon.ac.kr/wordpress/wp-content/uploads/2019/02/CIC_demo.mp4

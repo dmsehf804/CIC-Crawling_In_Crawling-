@@ -1,0 +1,5 @@
+classes= 1  
+train  = data/obj/train.txt  
+valid  = data/obj/test.txt  
+names = D:/hanjeon/new/yolo-for-windows-v2-master/build/darknet/x64/data/obj.names  
+backup = backup/  

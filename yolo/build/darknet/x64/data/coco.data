@@ -1,0 +1,8 @@
+classes= 80
+train  = C:\Users\user\Desktop\CHROME~1\yolo\build\darknet\x64\data/coco/trainvalno5k.txt
+valid  = C:\Users\user\Desktop\CHROME~1\yolo\build\darknet\x64\data/coco_testdev
+#valid = C:\Users\user\Desktop\CHROME~1\yolo\build\darknet\x64\data/coco_val_5k.list
+names = C:\Users\user\Desktop\CHROME~1\yolo\build\darknet\x64\data/coco.names
+backup = backup/
+eval=coco
+
